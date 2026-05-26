@@ -1,215 +1,299 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Syed+Atiq+👋;Full-Stack+Developer+💻;Data+Science+Learner+📊;Problem+Solver+🧠;Building+Real+Things+🚀" alt="Typing SVG" />
+```
+    :::     ::::::::::: ::::::::  :::     ::: 
+   :+:         :+:    :+:    :+: :+:     :+:  
+  +:+         +:+    +:+         +:+   +:+    
+ +#+         +#+    +#++:++#++  +#+  +#+      
+ +#+         +#+    +#+    +#+ +#+ +#+        
+#+#         #+#    #+#    #+# #+##+#          
+###     #########  ########  ###  ###         
 
-<br/>
-
-<!-- Profile Banner Description -->
-<p>
-  <img src="https://img.shields.io/badge/Student-B.Tech%20CSE%20(IoT)-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-7.83%2F10-brightgreen?style=for-the-badge&logo=star&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Vijayawada%2C%20India-orange?style=for-the-badge&logo=google-maps&logoColor=white"/>
-</p>
-
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=Syed-Atiq-pro&label=Profile+Views&color=2E75B6&style=flat-square" alt="Profile Views"/>
-
-</div>
-
----
-
-<!-- About Me Section -->
-## 🙋‍♂️ About Me
-
-```python
-class SyedAtiq:
-    name       = "Syed Atiq"
-    role       = ["Full-Stack Developer", "Data Science Learner"]
-    college    = "PSCMR College of Engineering & Technology"
-    degree     = "B.Tech CSE (IoT) | Graduating 2028"
-    location   = "Vijayawada, Andhra Pradesh, India"
-    cgpa       = 7.83
-
-    currently_learning = ["NumPy", "Pandas", "Data Analysis"]
-    
-    goal       = "Internship in Web Dev or Data Engineering"
-    fun_fact   = "I shipped 3 real apps with ZERO backend! 🚀"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something awesome together!")
-
-me = SyedAtiq()
-me.say_hi()
+██████╗ ██████╗  ██████╗  ██████╗ ██████╗  █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔══██╗██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
+██████╔╝██████╔╝██║   ██║██║  ███╗██████╔╝███████║██╔████╔██║██╔████╔██║█████╗  ██████╔╝
+██╔═══╝ ██╔══██╗██║   ██║██║   ██║██╔══██╗██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██╔══██╗
+██║     ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██║  ██║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
 ```
 
 ---
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
+### ✨ Full-Stack Developer • 📊 Data Science Learner • 🚀 Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Building+Real+Applications+💻;3+Deployed+Web+Apps+🌐;Learning+Data+Science+📈;Open+to+Internships+🎯" alt="Typing SVG" />
+
+<br/>
+
+**🎓 B.Tech CSE (IoT) | 3rd Year | PSCMR College**  
+**📍 Vijayawada, Andhra Pradesh, India**  
+**📊 CGPA: 7.83/10 | Graduating 2028**
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Syed-Atiq-pro&label=Profile%20Views&color=00D9FF&style=for-the-badge)](https://github.com/Syed-Atiq-pro)
+[![GitHub Followers](https://img.shields.io/github/followers/Syed-Atiq-pro?label=Followers&style=for-the-badge&color=00D9FF)](https://github.com/Syed-Atiq-pro)
+[![GitHub Stars](https://img.shields.io/github/stars/Syed-Atiq-pro?label=Stars&style=for-the-badge&color=FFD700)](https://github.com/Syed-Atiq-pro)
+
+---
+
+</div>
+
+## 👨‍💻 About Me
+
+I'm **Syed Atiq**, a passionate developer from Vijayawada who believes in **learning by building**. I've shipped **3 production web applications** and **3 Python projects**, all while teaching myself from scratch.
+
+**What drives me:**
+- 🚀 Building real, working applications that solve problems
+- 📚 Learning new technologies through hands-on projects
+- 💡 Writing clean, readable, well-documented code
+- 🎯 Contributing to meaningful work and open-source projects
+- 📈 Transitioning from Web Development to Data Science
+
+**Current Focus:**
+- 🔄 **Learning:** NumPy, Pandas, Data Analysis
+- 🎓 **Goal:** Internship in Web Development or Data Engineering
+- 📊 **Building:** Data Science projects & portfolios
+
+---
+
+## 🛠️ Technical Skills
 
 <div align="center">
 
 ### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Web Technologies
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white"/>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-FF6B6B?style=for-the-badge&logo=css3&logoColor=white)
+![PWA](https://img.shields.io/badge/Progressive-Web%20Apps-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
-### 📊 Data Science (Learning)
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+### 📊 Data Science (Currently Learning)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 ---
 
-<!-- Projects Section -->
+</div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🏆 Project | 📝 Description | 🛠️ Tech | 🔗 Live |
-|-----------|---------------|---------|---------|
-| **🌱 Habit Flow** | PWA tracking 50+ daily habits with streaks & motivational UI | HTML • CSS • JS | [▶ Live Demo](https://Syed-Atiq-pro.github.io/Habit-Flow-Ultimate-v2.0) |
-| **💰 WalletX** | Finance manager with 100+ transaction tracking & 20+ currency converter | HTML • CSS • JS | [▶ Live Demo](https://Syed-Atiq-pro.github.io/Wallet-v2.0) |
-| **📚 Whub** | Student academic assistant with attendance alerts & performance analysis | HTML • CSS • JS | [▶ Live Demo](https://Syed-Atiq-pro.github.io/Whub) |
-| **✂️ Rock Paper Scissors** | Interactive CLI game with score tracking & statistics | Python | [📂 Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
-| **🏏 Hand Cricket** | Cricket simulation with game logic & match statistics | Python | [📂 Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
-| **🎯 Guess The Number** | Number game with smart hints, difficulty levels & replay | Python | [📂 Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
+### Web Applications (Deployed Live)
 
-</div>
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|-----------|-----------|
+| **🌱 Habit Flow** | Progressive Web App for tracking daily habits with streaks, reminders, and motivational UI. Handles 50+ concurrent habits with zero backend. | HTML5 • CSS3 • JavaScript • PWA | [▶ Live](https://Syed-Atiq-pro.github.io/Habit-Flow-Ultimate-v2.0) |
+| **💰 WalletX** | Full-featured personal finance manager with transaction logging, budget tracking, and real-time multi-currency converter (20+ currencies). | HTML5 • CSS3 • JavaScript • APIs | [▶ Live](https://Syed-Atiq-pro.github.io/Wallet-v2.0) |
+| **📚 Whub** | Student academic assistant automating attendance tracking (1000+ records), marks management, predictive alerts at 75% threshold, and performance analysis. | HTML5 • CSS3 • JavaScript | [▶ Live](https://Syed-Atiq-pro.github.io/Whub) |
 
----
+### Python Projects (Learning-Focused)
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Atiq-pro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Atiq-pro&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Atiq-pro&theme=tokyonight&hide_border=true" width="500"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Syed-Atiq-pro&theme=tokyonight&no-frame=true&row=1&column=6" width="700"/>
-
-</div>
+| Project | Concepts Learned | Code |
+|---------|-----------------|------|
+| **✂️ Rock Paper Scissors** | Functions • Control Flow • Loops • User Input • Score Tracking | [View Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
+| **🏏 Hand Cricket** | Game Logic • State Management • Conditional Logic • Data Tracking | [View Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
+| **🎯 Guess The Number** | Random Module • While Loops • Conditional Logic • User Feedback | [View Code](https://github.com/Syed-Atiq-pro/Python-Projects) |
 
 ---
 
-<!-- Currently Learning Section -->
-## 📚 Currently Learning
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Atiq-pro&show_icons=true&theme=tokyonight&hide_border=true&hide=prs&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&line_height=30)](https://github.com/Syed-Atiq-pro)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Atiq-pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9)](https://github.com/Syed-Atiq-pro)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syed-Atiq-pro&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://github.com/Syed-Atiq-pro)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Syed-Atiq-pro&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/Syed-Atiq-pro)
+
+---
+
+</div>
+
+## 📚 2025 Learning Roadmap
 
 <div align="center">
 
 ```
-🎯 My 2025 Learning Path
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LEARNING PROGRESS TRACKER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Python Basics      ████████████████████  100% ✅
-NumPy              ████████░░░░░░░░░░░░   40% 🔄
-Pandas             ████░░░░░░░░░░░░░░░░   20% 📖
-Data Analysis      ██░░░░░░░░░░░░░░░░░░   10% 📖
-Machine Learning   ░░░░░░░░░░░░░░░░░░░░    0% 🔜
+Python Fundamentals     ████████████████████ 100% ✅
+NumPy Basics           ████████░░░░░░░░░░░░  40% 🔄
+Pandas & Data Wrangling ████░░░░░░░░░░░░░░░░  20% 📖
+Data Analysis & EDA    ██░░░░░░░░░░░░░░░░░░  10% 📖
+Machine Learning       ░░░░░░░░░░░░░░░░░░░░   0% 🔜
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-</div>
+**Next Steps:**
+1. ✅ Complete CodeWithHarry NumPy course
+2. 🔄 Build NumPy/Pandas projects weekly
+3. 📊 Create Student Performance EDA project
+4. 🎯 Learn Matplotlib & Data Visualization
+5. 🚀 Build ML fundamentals project
 
 ---
 
-<!-- Goals Section -->
-## 🎯 My Goals for 2025
+</div>
+
+## 🎯 2025 Goals & Milestones
 
 <div align="center">
 
-| Status | Goal |
-|--------|------|
-| ✅ | Ship 3 production web applications |
-| ✅ | Master Python programming fundamentals |
-| ✅ | Set up professional GitHub profile |
-| 🔄 | Learn NumPy & Pandas for Data Science |
-| 🔜 | Build first Data Science project |
-| 🔜 | Secure internship in Web Dev or Data Engineering |
-| 🔜 | Contribute to Open Source |
-
-</div>
+| Status | Goal | Timeline |
+|--------|------|----------|
+| ✅ **Done** | Ship 3 production web applications | Completed |
+| ✅ **Done** | Master Python programming fundamentals | Completed |
+| ✅ **Done** | Set up professional GitHub profile | Completed |
+| 🔄 **In Progress** | Learn NumPy & Pandas for Data Science | May-July 2025 |
+| 🔄 **In Progress** | Build first Data Science project | June-July 2025 |
+| 🔜 **Upcoming** | Secure internship in Web Dev or Data Engineering | Aug-Sep 2025 |
+| 🔜 **Upcoming** | Contribute to Open Source projects | After Exams |
+| 🔜 **Upcoming** | Build 2nd Data Science project | Jul-Aug 2025 |
 
 ---
 
-<!-- Connect Section -->
+</div>
+
+## 🌟 Why I'm Different
+
+```
+✅  I learn by BUILDING — not just watching tutorials
+✅  I push code PUBLICLY — accountability & transparency
+✅  I write CLEAN CODE — readable and well-documented
+✅  I ship REAL PROJECTS — 3 deployed apps, zero copy-paste
+✅  I grow FAST — transitioning from web dev to data science
+✅  I solve PROBLEMS — every project solves a real need
+```
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 <a href="mailto:syedatiq4953@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 <a href="https://www.linkedin.com/in/atiq-syed-159b6b372">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/Syed-Atiq-pro">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 <a href="https://syed-atiq-pro.github.io/portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/>
 </a>
 
-</div>
+<br/>
+
+📧 **Email:** syedatiq4953@gmail.com  
+🔗 **LinkedIn:** [@atiq-syed-159b6b372](https://www.linkedin.com/in/atiq-syed-159b6b372)  
+💻 **Portfolio:** [syed-atiq-pro.github.io/portfolio](https://syed-atiq-pro.github.io/portfolio)
 
 ---
 
-<!-- Fun Section -->
-## ⚡ Fun Facts About Me
+</div>
 
-- 🎮 I coded **3 Python games** from scratch to learn programming logic
-- 🌐 My apps work with **zero backend** — all client-side JavaScript magic
-- 📱 I learn and code entirely from my **phone** — no laptop needed!
-- 🏏 **Hand Cricket** is my favourite Python project — it's India's childhood game!
-- 🎯 I participated in **Smart India Hackathon 2024** — India's biggest national hackathon
+## ⚡ Quick Facts About Me
+
+- 📱 **I learn and code entirely from my phone** — no laptop dependency initially
+- 💻 **Now have a laptop** — using VS Code, Jupyter, Git locally
+- 🌐 **3 web apps with ZERO backend** — pure HTML, CSS, JavaScript magic
+- 🏏 **Hand Cricket is my favorite project** — India's childhood game in code!
+- 🎯 **Participated in Smart India Hackathon 2024** — India's biggest national hackathon
+- 🚀 **Shipped 3 live applications** — all deployed and publicly accessible
+- 📈 **Growing 2x faster** — combining web dev + data science skills
+
+---
+
+## 📊 Current Status
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **GitHub Repositories** | 4 public repos |
+| **Deployed Applications** | 3 live web apps |
+| **Python Projects** | 3 game projects |
+| **Total Commits** | 100+ commits |
+| **CGPA** | 7.83/10 |
+| **Year** | 3rd Year (2026) |
+| **Internship Status** | 🟢 **OPEN TO OPPORTUNITIES** |
+
+---
+
+</div>
+
+## 🎓 Education & Certifications
+
+**B.Tech Computer Science & Engineering (IoT)**  
+Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering & Technology  
+2024 – 2028 | CGPA: 7.83/10 | Vijayawada, Andhra Pradesh
+
+**Self-Directed Learning:**
+- ✅ Python Programming Fundamentals (2024-2025)
+- ✅ Java Programming Basics (2024)
+- ✅ C Programming Fundamentals (2023-2024)
+- ✅ HTML5, CSS3 & JavaScript Web Development (2024)
+- 🔄 NumPy & Data Science (May 2025 onwards)
+
+---
+
+## 📈 What's Next?
+
+- 📚 Complete NumPy & Pandas mastery
+- 🛠️ Build Student Performance Analysis EDA project
+- 📊 Learn Matplotlib & Data Visualization
+- 🎯 Create portfolio-worthy Data Science projects
+- 💼 Apply for internships (August-September 2025)
+- 🚀 Contribute to open-source projects
 
 ---
 
 <div align="center">
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 ---
 
-<div align="center">
+## 💡 Open to Internship Opportunities!
 
-**💡 Open to internship opportunities in Web Development & Data Science!**
+![Internship](https://img.shields.io/badge/Status-OPEN%20TO%20OPPORTUNITIES-brightgreen?style=for-the-badge&logo=target&logoColor=white)
 
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge"/>
+**Areas of Interest:**
+- 🌐 Full-Stack Web Development
+- 📊 Data Engineering & Analytics
+- 🤖 Machine Learning Projects
+- 📱 Frontend Development
 
-⭐ **Star my repos if you find them useful!** ⭐
+---
 
-*Last updated: May 2025*
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+*Made with ❤️ by Syed Atiq*  
+*Last Updated: May 2025*
 
 </div>
